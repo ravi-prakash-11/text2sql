@@ -1,0 +1,1001 @@
+order_id,customer_id,product_id,quantity,unit_price,total_price,order_date,shipping_address,payment_method,status
+1,789,448,936,9.99,93609.99,8/14/2026,5th Floor,in-store,shipped
+2,999,159,73,14.99,7314.99,2/10/2026,PO Box 68935,in-store,in transit
+3,540,776,167,1.99,16701.99,10/4/2026,PO Box 30267,curbside pickup,in transit
+4,30,133,252,39.99,25239.99,3/16/2026,Suite 94,click and collect,delayed
+5,450,136,675,35.99,67535.99,7/8/2026,PO Box 47887,click and collect,delayed
+6,861,970,137,79.99,13779.99,6/18/2026,Room 1872,curbside pickup,delayed
+7,16,576,466,3.49,46603.49,9/21/2026,13th Floor,delivery,shipped
+8,484,214,890,29.99,89029.99,8/15/2026,Room 772,click and collect,delivered
+9,23,980,617,39.99,61739.99,2/27/2026,PO Box 64048,in-store,delayed
+10,370,797,530,4.29,53004.29,10/28/2025,Room 843,online,cancled
+11,118,309,794,29.99,79429.99,4/24/2026,5th Floor,in-store,in transit
+12,597,773,650,4.29,65004.29,1/12/2026,Suite 69,online,delivered
+13,312,778,733,24.99,73324.99,10/22/2025,18th Floor,in-store,delivered
+14,487,351,373,39.99,37339.99,6/7/2026,4th Floor,curbside pickup,out for delivery
+15,921,99,626,2.69,62602.69,6/1/2026,19th Floor,online,out for delivery
+16,403,427,752,29.99,75229.99,10/4/2026,PO Box 23940,delivery,out for delivery
+17,375,782,260,3.49,26003.49,9/5/2026,Apt 536,click and collect,cancled
+18,843,365,866,1.99,86601.99,3/29/2026,18th Floor,delivery,cancled
+19,212,90,367,4.99,36704.99,8/2/2026,16th Floor,curbside pickup,in transit
+20,131,901,386,34.99,38634.99,11/21/2025,PO Box 53255,click and collect,returned
+21,384,6,515,3.29,51503.29,7/14/2026,Suite 54,delivery,delivered
+22,562,593,160,3.49,16003.49,11/2/2025,PO Box 29887,click and collect,delivered
+23,753,337,314,3.29,31403.29,3/6/2026,Apt 1612,delivery,cancled
+24,500,895,244,4.29,24404.29,10/15/2025,Suite 13,online,delivered
+25,9,828,87,2.49,8702.49,7/26/2026,PO Box 93917,click and collect,in transit
+26,982,57,950,22.99,95022.99,4/6/2026,Room 1404,in-store,in transit
+27,765,137,52,5.49,5205.49,7/28/2026,PO Box 21931,delivery,cancled
+28,371,278,54,1.29,5401.29,10/14/2025,Suite 54,in-store,returned
+29,871,952,813,79.99,81379.99,7/26/2026,Suite 40,in-store,out for delivery
+30,140,414,172,19.99,17219.99,11/7/2025,17th Floor,delivery,shipped
+31,352,785,713,4.99,71304.99,11/17/2025,Suite 16,curbside pickup,returned
+32,360,1,781,169.99,78269.99,3/17/2026,Apt 840,curbside pickup,in transit
+33,842,816,51,24.99,5124.99,5/31/2026,Suite 91,online,shipped
+34,923,445,10,39.99,1039.99,9/5/2026,Apt 152,in-store,out for delivery
+35,447,136,620,159.99,62159.99,4/5/2026,20th Floor,delivery,in transit
+36,509,436,541,4.99,54104.99,6/10/2026,Room 1433,in-store,returned
+37,280,957,521,1.49,52101.49,3/25/2026,Room 519,online,delivered
+38,759,460,982,5.49,98205.49,11/2/2025,17th Floor,delivery,in transit
+39,414,910,400,8.99,40008.99,7/16/2026,1st Floor,click and collect,delayed
+40,773,539,346,29.99,34629.99,4/27/2026,PO Box 27762,in-store,delivered
+41,987,475,30,25,3025,8/3/2026,Suite 96,online,in transit
+42,838,283,982,3.29,98203.29,1/30/2026,PO Box 57299,curbside pickup,cancled
+43,279,988,416,19.99,41619.99,9/22/2026,PO Box 39349,curbside pickup,out for delivery
+44,765,866,930,3.49,93003.49,9/3/2026,Apt 796,delivery,cancled
+45,697,671,211,10.99,21110.99,11/15/2025,Apt 1583,online,cancled
+46,16,746,896,5.49,89605.49,11/30/2025,Apt 1067,delivery,delivered
+47,791,648,755,6.99,75506.99,4/9/2026,Suite 32,online,delayed
+48,994,527,839,15.99,83915.99,10/21/2025,PO Box 56374,delivery,out for delivery
+49,799,648,981,3.99,98103.99,9/16/2026,Suite 57,delivery,out for delivery
+50,35,1,842,34.99,84234.99,11/16/2025,Suite 67,click and collect,out for delivery
+51,781,853,256,19.99,25619.99,5/17/2026,Room 1496,delivery,delayed
+52,515,606,344,12.99,34412.99,12/27/2025,Room 1868,curbside pickup,cancled
+53,440,510,237,3.99,23703.99,10/26/2025,16th Floor,curbside pickup,cancled
+54,520,896,718,3.99,71803.99,8/14/2026,20th Floor,online,delivered
+55,895,357,332,199.99,33399.99,8/29/2026,Room 1578,in-store,in transit
+56,638,653,452,44.99,45244.99,12/17/2025,Apt 217,online,shipped
+57,610,778,394,4.49,39404.49,10/28/2025,Suite 74,click and collect,out for delivery
+58,983,476,71,2.49,7102.49,8/22/2026,Room 66,in-store,delivered
+59,937,112,598,59.99,59859.99,3/26/2026,Suite 59,online,delivered
+60,230,114,952,9.99,95209.99,4/27/2026,PO Box 87149,online,returned
+61,944,556,392,19.99,39219.99,11/23/2025,PO Box 72194,online,returned
+62,687,408,167,79.99,16779.99,3/12/2026,Apt 963,curbside pickup,delayed
+63,898,838,182,2.29,18202.29,6/5/2026,Room 1382,curbside pickup,delivered
+64,731,97,753,2.49,75302.49,1/24/2026,Suite 11,delivery,cancled
+65,532,30,28,4.99,2804.99,6/13/2026,Suite 4,click and collect,returned
+66,944,211,582,39.99,58239.99,7/9/2026,Room 1241,in-store,cancled
+67,115,263,572,39.99,57239.99,8/28/2026,Suite 29,curbside pickup,out for delivery
+68,256,915,267,5.49,26705.49,1/11/2026,Apt 1445,in-store,delayed
+69,300,677,929,5.49,92905.49,6/15/2026,Room 666,in-store,shipped
+70,248,33,695,5.99,69505.99,8/31/2026,Suite 46,click and collect,out for delivery
+71,856,941,249,39.99,24939.99,4/15/2026,Apt 1040,in-store,shipped
+72,32,128,932,3.99,93203.99,7/8/2026,Apt 1726,curbside pickup,cancled
+73,638,121,347,4.29,34704.29,11/15/2025,9th Floor,click and collect,delivered
+74,704,821,650,1.5,65001.5,1/4/2026,Apt 292,delivery,delivered
+75,652,782,817,3.49,81703.49,12/26/2025,Room 1061,curbside pickup,in transit
+76,644,982,453,1.49,45301.49,9/10/2026,Room 990,delivery,returned
+77,222,920,286,17.99,28617.99,10/27/2025,Suite 85,click and collect,cancled
+78,294,671,284,6.99,28406.99,12/10/2025,PO Box 66672,curbside pickup,in transit
+79,177,887,235,14.99,23514.99,3/9/2026,PO Box 69126,click and collect,returned
+80,131,932,100,2.19,10002.19,8/9/2026,8th Floor,curbside pickup,cancled
+81,585,119,746,29.99,74629.99,11/9/2025,19th Floor,online,returned
+82,6,588,195,34.99,19534.99,4/20/2026,PO Box 16646,delivery,returned
+83,564,613,79,5.99,7905.99,9/14/2026,Apt 231,click and collect,shipped
+84,739,356,9,5.99,905.99,7/3/2026,Room 949,delivery,shipped
+85,190,18,591,39.99,59139.99,8/8/2026,PO Box 85546,online,shipped
+86,874,378,933,109.99,93409.99,9/22/2026,Suite 17,delivery,shipped
+87,407,790,163,24.99,16324.99,11/17/2025,PO Box 13384,delivery,delayed
+88,398,87,664,39.99,66439.99,2/8/2026,Apt 85,online,delivered
+89,539,16,376,59.99,37659.99,12/18/2025,Room 1554,delivery,in transit
+90,971,454,870,5.29,87005.29,11/22/2025,Apt 989,delivery,out for delivery
+91,16,821,686,79.99,68679.99,6/25/2026,PO Box 54437,click and collect,out for delivery
+92,253,783,416,89.99,41689.99,9/14/2026,Suite 31,click and collect,in transit
+93,845,316,935,19.99,93519.99,10/15/2025,4th Floor,click and collect,shipped
+94,332,186,302,15.99,30215.99,7/26/2026,Suite 72,curbside pickup,shipped
+95,169,340,357,24.99,35724.99,10/30/2025,PO Box 69521,online,in transit
+96,571,627,174,149.99,17549.99,9/9/2026,Apt 1530,in-store,shipped
+97,639,102,605,4.19,60504.19,7/13/2026,PO Box 6463,online,shipped
+98,388,827,654,49.99,65449.99,12/26/2025,Apt 652,click and collect,cancled
+99,150,858,952,9.99,95209.99,3/6/2026,Room 1079,curbside pickup,returned
+100,713,60,722,5.89,72205.89,12/5/2025,8th Floor,online,in transit
+101,394,863,368,22.99,36822.99,2/13/2026,Room 416,in-store,out for delivery
+102,738,539,693,45.99,69345.99,5/1/2026,18th Floor,in-store,in transit
+103,321,387,28,2.99,2802.99,11/23/2025,PO Box 96777,online,shipped
+104,525,763,961,29.99,96129.99,11/22/2025,Suite 63,online,out for delivery
+105,226,983,47,39.99,4739.99,1/13/2026,Apt 1924,delivery,delayed
+106,43,331,521,29.99,52129.99,10/27/2025,Room 1079,in-store,out for delivery
+107,297,957,241,24.99,24124.99,11/3/2025,Suite 33,online,cancled
+108,936,645,460,49.99,46049.99,5/10/2026,Suite 90,online,cancled
+109,890,115,958,39.99,95839.99,4/11/2026,Suite 70,curbside pickup,out for delivery
+110,624,443,241,6.99,24106.99,11/4/2025,15th Floor,curbside pickup,delivered
+111,672,132,732,79.99,73279.99,2/24/2026,18th Floor,in-store,delayed
+112,323,831,899,149.99,90049.99,10/3/2026,Apt 97,click and collect,delivered
+113,486,836,997,0.89,99700.89,7/14/2026,Room 385,click and collect,delivered
+114,313,686,175,2.79,17502.79,3/25/2026,18th Floor,in-store,delivered
+115,332,220,809,12.99,80912.99,2/3/2026,Apt 932,delivery,returned
+116,691,995,967,2.99,96702.99,7/24/2026,PO Box 14809,in-store,delayed
+117,66,859,169,14.99,16914.99,3/22/2026,PO Box 18089,in-store,delivered
+118,210,813,748,34.99,74834.99,2/5/2026,Apt 898,curbside pickup,in transit
+119,59,216,567,2.99,56702.99,9/30/2026,Room 426,in-store,out for delivery
+120,143,293,247,5.99,24705.99,4/1/2026,PO Box 580,delivery,returned
+121,768,323,491,2.49,49102.49,6/6/2026,7th Floor,delivery,out for delivery
+122,334,49,768,19.99,76819.99,8/4/2026,Apt 1313,click and collect,in transit
+123,444,160,527,15.99,52715.99,9/1/2026,8th Floor,click and collect,delivered
+124,947,563,694,15.99,69415.99,11/9/2025,Suite 28,curbside pickup,in transit
+125,127,988,392,3.99,39203.99,8/27/2026,PO Box 32939,in-store,delivered
+126,205,874,102,4.29,10204.29,11/4/2025,PO Box 10949,online,in transit
+127,992,381,971,14.99,97114.99,1/19/2026,Room 1792,curbside pickup,shipped
+128,30,631,879,2.99,87902.99,5/6/2026,5th Floor,online,in transit
+129,40,606,953,22.99,95322.99,4/23/2026,Room 195,in-store,delayed
+130,857,691,652,3.99,65203.99,6/27/2026,PO Box 56995,delivery,cancled
+131,818,218,127,49.99,12749.99,12/18/2025,Room 1157,online,delayed
+132,806,583,573,22.99,57322.99,11/1/2025,PO Box 24391,online,cancled
+133,363,88,152,89.99,15289.99,9/7/2026,15th Floor,delivery,shipped
+134,929,898,476,199.99,47799.99,11/24/2025,Room 856,online,in transit
+135,320,357,956,39.99,95639.99,7/10/2026,Apt 1045,online,out for delivery
+136,207,23,985,19.99,98519.99,12/19/2025,Apt 1016,click and collect,delayed
+137,322,300,131,3.99,13103.99,12/26/2025,Suite 49,delivery,cancled
+138,619,835,443,3.59,44303.59,9/19/2026,Room 996,click and collect,returned
+139,125,729,64,4.49,6404.49,1/23/2026,Suite 31,click and collect,in transit
+140,284,793,825,6.49,82506.49,7/5/2026,PO Box 21693,delivery,delivered
+141,89,465,453,19.99,45319.99,10/15/2025,Apt 1358,delivery,cancled
+142,191,57,865,19.99,86519.99,3/22/2026,PO Box 94173,click and collect,in transit
+143,586,836,74,9.99,7409.99,9/25/2026,Suite 11,click and collect,out for delivery
+144,252,403,531,3.29,53103.29,8/2/2026,Apt 255,curbside pickup,in transit
+145,477,141,189,49.99,18949.99,5/21/2026,Apt 1443,click and collect,delivered
+146,953,489,97,5.49,9705.49,8/26/2026,17th Floor,delivery,delayed
+147,62,627,236,3.99,23603.99,11/21/2025,PO Box 94143,in-store,cancled
+148,156,991,159,29.99,15929.99,10/4/2026,Room 1777,online,shipped
+149,779,306,796,1.29,79601.29,12/22/2025,Apt 872,online,delayed
+150,926,548,323,7.99,32307.99,3/31/2026,13th Floor,delivery,shipped
+151,324,289,570,3.29,57003.29,10/13/2025,PO Box 48445,delivery,returned
+152,826,166,939,3.79,93903.79,12/17/2025,Suite 7,click and collect,cancled
+153,388,713,943,39.99,94339.99,3/5/2026,Room 35,delivery,cancled
+154,627,581,520,29.99,52029.99,10/6/2026,Apt 1091,online,shipped
+155,680,639,688,199.99,68999.99,9/3/2026,Suite 95,click and collect,shipped
+156,443,873,661,59.99,66159.99,7/6/2026,PO Box 41373,click and collect,delayed
+157,248,454,877,2.29,87702.29,9/21/2026,Apt 1978,curbside pickup,in transit
+158,472,842,786,19.99,78619.99,9/14/2026,Room 1596,online,in transit
+159,868,575,471,5.99,47105.99,7/11/2026,Suite 84,click and collect,cancled
+160,771,80,360,15.99,36015.99,11/3/2025,PO Box 83225,online,returned
+161,430,973,438,39.99,43839.99,11/13/2025,Suite 81,online,cancled
+162,131,315,207,79.99,20779.99,10/14/2025,Suite 73,online,cancled
+163,805,692,490,17.99,49017.99,5/26/2026,15th Floor,click and collect,cancled
+164,735,901,976,29.99,97629.99,3/11/2026,10th Floor,delivery,delivered
+165,626,497,407,19.99,40719.99,1/31/2026,Room 1695,click and collect,out for delivery
+166,140,313,588,29.99,58829.99,3/7/2026,Suite 61,curbside pickup,out for delivery
+167,919,752,894,34.99,89434.99,1/5/2026,Room 123,online,delivered
+168,273,46,985,9.99,98509.99,11/22/2025,PO Box 10605,click and collect,delivered
+169,120,939,10,19.99,1019.99,1/17/2026,Room 799,delivery,out for delivery
+170,479,559,904,34.99,90434.99,11/23/2025,PO Box 79502,in-store,delivered
+171,749,556,201,79.99,20179.99,7/18/2026,PO Box 82822,in-store,delayed
+172,303,918,696,69.99,69669.99,8/25/2026,Suite 7,curbside pickup,in transit
+173,803,126,194,39.99,19439.99,2/22/2026,Apt 321,delivery,delivered
+174,480,897,406,19.99,40619.99,5/5/2026,5th Floor,online,out for delivery
+175,828,181,138,14.99,13814.99,6/12/2026,Suite 6,curbside pickup,shipped
+176,413,866,616,3.29,61603.29,11/20/2025,Apt 271,click and collect,delivered
+177,763,72,446,12.99,44612.99,4/12/2026,Apt 1089,delivery,out for delivery
+178,477,365,298,3.99,29803.99,2/26/2026,3rd Floor,online,cancled
+179,325,760,52,2.49,5202.49,4/2/2026,PO Box 68928,online,returned
+180,55,520,213,5.49,21305.49,12/1/2025,Room 70,click and collect,shipped
+181,403,267,282,29.99,28229.99,6/9/2026,Room 1914,click and collect,cancled
+182,112,388,374,2.99,37402.99,4/18/2026,Suite 60,click and collect,cancled
+183,111,415,167,49.99,16749.99,3/18/2026,7th Floor,in-store,cancled
+184,892,110,869,19.99,86919.99,6/5/2026,1st Floor,click and collect,returned
+185,742,65,177,2.29,17702.29,1/25/2026,2nd Floor,delivery,out for delivery
+186,651,87,97,39.99,9739.99,5/11/2026,PO Box 16031,delivery,out for delivery
+187,578,984,455,159.99,45659.99,2/21/2026,Apt 1902,in-store,cancled
+188,680,634,932,22.99,93222.99,12/30/2025,Room 1259,delivery,cancled
+189,203,555,708,49.99,70849.99,2/1/2026,3rd Floor,delivery,delayed
+190,868,330,732,15.99,73215.99,7/26/2026,PO Box 79961,delivery,delivered
+191,154,655,97,4.99,9704.99,2/3/2026,Room 808,online,delivered
+192,145,957,172,2.69,17202.69,12/5/2025,Suite 4,in-store,cancled
+193,418,495,203,249.99,20549.99,3/26/2026,Suite 1,curbside pickup,delayed
+194,858,538,231,299.99,23399.99,2/16/2026,Room 83,in-store,cancled
+195,284,618,900,99.99,90099.99,11/25/2025,Apt 595,delivery,returned
+196,112,114,143,3.29,14303.29,2/1/2026,Apt 114,click and collect,delivered
+197,833,97,986,149.99,98749.99,8/13/2026,Apt 1002,curbside pickup,cancled
+198,653,510,119,29.99,11929.99,7/28/2026,PO Box 79711,delivery,cancled
+199,225,490,26,1.99,2601.99,10/27/2025,Room 1700,online,returned
+200,782,832,417,59.99,41759.99,3/21/2026,Suite 51,curbside pickup,out for delivery
+201,343,210,985,64.99,98564.99,10/6/2026,7th Floor,click and collect,out for delivery
+202,102,50,138,4.49,13804.49,6/5/2026,Room 1665,in-store,delayed
+203,821,769,568,7.49,56807.49,3/16/2026,Room 1419,click and collect,returned
+204,931,22,490,2.99,49002.99,11/30/2025,PO Box 93235,curbside pickup,out for delivery
+205,616,591,551,1.99,55101.99,6/1/2026,PO Box 89537,in-store,returned
+206,287,274,903,19.99,90319.99,12/14/2025,PO Box 91605,curbside pickup,shipped
+207,402,311,958,5.49,95805.49,8/31/2026,6th Floor,click and collect,in transit
+208,261,532,496,2.49,49602.49,7/7/2026,Suite 22,click and collect,in transit
+209,249,611,904,2.99,90402.99,7/19/2026,Apt 1697,online,cancled
+210,844,486,791,4.99,79104.99,11/20/2025,Room 965,click and collect,returned
+211,798,907,644,19.99,64419.99,6/14/2026,17th Floor,curbside pickup,cancled
+212,474,751,449,39.99,44939.99,1/27/2026,Room 1967,online,delivered
+213,214,259,264,3.49,26403.49,2/14/2026,Suite 27,online,delayed
+214,835,574,287,29.99,28729.99,3/4/2026,Suite 91,online,returned
+215,84,22,850,79.99,85079.99,11/29/2025,Apt 1510,click and collect,returned
+216,430,226,259,5.49,25905.49,12/7/2025,PO Box 67387,in-store,delivered
+217,790,608,537,44.99,53744.99,2/3/2026,PO Box 98219,click and collect,delivered
+218,969,132,76,39.99,7639.99,8/28/2026,PO Box 35585,delivery,delayed
+219,862,889,39,3.49,3903.49,5/28/2026,Room 790,delivery,in transit
+220,353,282,891,129.99,89229.99,2/14/2026,PO Box 88385,curbside pickup,returned
+221,601,453,298,79.99,29879.99,6/28/2026,Room 34,delivery,delayed
+222,51,17,628,49.99,62849.99,2/24/2026,Room 767,click and collect,delayed
+223,42,549,54,3.49,5403.49,12/9/2025,Suite 51,delivery,returned
+224,508,919,195,139.99,19639.99,12/24/2025,Apt 855,in-store,in transit
+225,914,559,594,19.99,59419.99,2/4/2026,Room 143,online,in transit
+226,324,374,386,89.99,38689.99,12/20/2025,Room 119,curbside pickup,delivered
+227,867,351,233,109.99,23409.99,6/12/2026,Suite 80,online,shipped
+228,787,281,328,30,32830,6/7/2026,3rd Floor,click and collect,cancled
+229,556,429,223,2.49,22302.49,5/15/2026,Room 284,curbside pickup,cancled
+230,781,413,262,5.99,26205.99,9/29/2026,Suite 92,click and collect,delivered
+231,934,266,721,34.99,72134.99,1/22/2026,PO Box 38458,in-store,returned
+232,277,820,226,29.99,22629.99,2/4/2026,Apt 1368,click and collect,cancled
+233,155,575,517,8.99,51708.99,8/22/2026,2nd Floor,online,delivered
+234,282,462,261,2.99,26102.99,2/5/2026,Apt 1774,online,shipped
+235,176,603,174,12.99,17412.99,12/4/2025,Apt 769,click and collect,out for delivery
+236,956,243,139,24.99,13924.99,1/19/2026,PO Box 9793,delivery,delayed
+237,704,207,702,9.99,70209.99,1/10/2026,18th Floor,curbside pickup,returned
+238,167,141,847,169.99,84869.99,5/30/2026,Suite 44,curbside pickup,delivered
+239,108,858,964,44.99,96444.99,4/4/2026,1st Floor,delivery,out for delivery
+240,440,113,267,3.29,26703.29,3/21/2026,Suite 69,curbside pickup,cancled
+241,654,230,59,24.99,5924.99,4/1/2026,PO Box 24073,in-store,cancled
+242,369,212,263,59.99,26359.99,1/21/2026,Suite 17,in-store,out for delivery
+243,596,209,6,2.49,602.49,3/1/2026,Apt 1074,delivery,shipped
+244,701,691,547,39.99,54739.99,7/19/2026,Apt 659,curbside pickup,in transit
+245,659,673,99,6.29,9906.29,2/5/2026,Apt 1952,in-store,in transit
+246,472,744,767,29.99,76729.99,12/21/2025,8th Floor,delivery,delayed
+247,542,45,361,5.99,36105.99,2/16/2026,Apt 1984,curbside pickup,in transit
+248,604,428,925,89.99,92589.99,1/1/2026,19th Floor,online,out for delivery
+249,959,816,436,6.49,43606.49,4/21/2026,Suite 96,online,delivered
+250,477,689,429,149.99,43049.99,11/16/2025,Room 907,delivery,delayed
+251,575,152,964,39.99,96439.99,10/27/2025,Room 1560,in-store,delayed
+252,700,500,950,19.99,95019.99,9/5/2026,4th Floor,online,in transit
+253,379,163,62,2.79,6202.79,1/8/2026,16th Floor,curbside pickup,delivered
+254,436,230,465,169.99,46669.99,2/7/2026,Suite 88,online,delivered
+255,732,754,211,9.99,21109.99,7/8/2026,1st Floor,curbside pickup,delayed
+256,238,823,132,3.59,13203.59,1/25/2026,Suite 100,in-store,out for delivery
+257,639,725,480,10.99,48010.99,5/9/2026,PO Box 12659,in-store,returned
+258,182,1,487,3.59,48703.59,8/11/2026,Suite 24,curbside pickup,in transit
+259,834,544,219,39.99,21939.99,10/6/2026,Suite 75,in-store,cancled
+260,871,31,620,4.99,62004.99,5/13/2026,Room 892,click and collect,shipped
+261,815,289,894,99.99,89499.99,3/21/2026,PO Box 88193,delivery,returned
+262,111,555,417,15.99,41715.99,4/17/2026,12th Floor,delivery,delayed
+263,712,783,188,7.49,18807.49,10/9/2025,Room 1374,click and collect,cancled
+264,289,149,941,15.99,94115.99,12/16/2025,12th Floor,in-store,cancled
+265,959,453,626,4.19,62604.19,11/29/2025,5th Floor,curbside pickup,cancled
+266,305,598,143,4.49,14304.49,8/6/2026,Suite 62,click and collect,delivered
+267,738,842,577,3.49,57703.49,10/21/2025,Suite 61,delivery,cancled
+268,587,868,574,15.99,57415.99,2/23/2026,8th Floor,delivery,in transit
+269,875,702,999,49.99,99949.99,10/28/2025,Room 1795,online,delivered
+270,530,152,114,69.99,11469.99,2/4/2026,Suite 24,online,in transit
+271,492,913,76,3.99,7603.99,6/30/2026,Suite 82,delivery,delivered
+272,384,518,751,9.99,75109.99,8/28/2026,Suite 4,click and collect,cancled
+273,279,659,428,8.99,42808.99,11/30/2025,Room 103,delivery,out for delivery
+274,57,432,272,29.99,27229.99,12/31/2025,PO Box 60056,click and collect,out for delivery
+275,29,196,183,3.59,18303.59,6/27/2026,Room 1050,in-store,delivered
+276,162,271,978,29.99,97829.99,3/30/2026,Room 1192,delivery,returned
+277,963,236,905,3.49,90503.49,6/27/2026,Apt 118,delivery,shipped
+278,872,144,767,5.99,76705.99,10/13/2025,Room 1,click and collect,in transit
+279,150,821,974,14.99,97414.99,4/11/2026,Room 315,click and collect,delayed
+280,37,363,66,4.49,6604.49,7/23/2026,Suite 9,delivery,returned
+281,138,691,104,4.99,10404.99,6/5/2026,Room 1393,in-store,delayed
+282,222,405,15,49.99,1549.99,5/10/2026,6th Floor,curbside pickup,delivered
+283,101,648,78,59.99,7859.99,5/2/2026,PO Box 37923,in-store,in transit
+284,216,666,624,3.29,62403.29,9/28/2026,Room 1795,online,delivered
+285,34,206,75,45.99,7545.99,7/25/2026,Suite 22,delivery,returned
+286,26,412,305,3.49,30503.49,11/5/2025,PO Box 39161,delivery,cancled
+287,758,900,441,34.99,44134.99,12/30/2025,Room 1077,curbside pickup,in transit
+288,64,70,144,39.99,14439.99,12/7/2025,Room 390,click and collect,in transit
+289,438,487,870,12.99,87012.99,3/18/2026,Apt 343,click and collect,delivered
+290,382,135,192,4.29,19204.29,4/6/2026,PO Box 60848,curbside pickup,shipped
+291,925,532,600,6.49,60006.49,9/18/2026,Suite 75,curbside pickup,in transit
+292,742,972,548,2.29,54802.29,9/22/2026,PO Box 23770,curbside pickup,returned
+293,565,51,277,39.99,27739.99,9/1/2026,11th Floor,delivery,delivered
+294,574,605,553,39.99,55339.99,11/5/2025,Apt 206,online,delayed
+295,560,970,545,2.99,54502.99,10/10/2025,Suite 1,online,shipped
+296,228,171,60,39.99,6039.99,8/19/2026,4th Floor,curbside pickup,returned
+297,487,906,961,2.99,96102.99,2/6/2026,Room 431,online,delayed
+298,834,23,609,28.99,60928.99,9/25/2026,Suite 23,click and collect,delivered
+299,118,234,526,2.79,52602.79,4/23/2026,PO Box 23584,click and collect,delayed
+300,103,924,307,3.79,30703.79,9/26/2026,Apt 757,delivery,returned
+301,733,964,743,5.49,74305.49,8/4/2026,Suite 23,delivery,in transit
+302,294,890,675,2.29,67502.29,4/19/2026,3rd Floor,click and collect,in transit
+303,631,967,822,24.99,82224.99,8/4/2026,Apt 695,online,out for delivery
+304,277,128,945,4.99,94504.99,7/10/2026,Suite 7,online,shipped
+305,241,334,364,5.79,36405.79,8/29/2026,PO Box 70347,curbside pickup,returned
+306,685,547,898,22.99,89822.99,11/28/2025,Room 361,online,delivered
+307,613,711,11,4.99,1104.99,6/30/2026,PO Box 56983,delivery,delivered
+308,828,955,624,5.99,62405.99,3/8/2026,PO Box 51153,curbside pickup,delivered
+309,92,405,804,12.99,80412.99,12/11/2025,Apt 1529,in-store,out for delivery
+310,518,420,87,15.99,8715.99,2/5/2026,Room 1636,online,returned
+311,184,725,16,29.99,1629.99,9/30/2026,Apt 1900,delivery,delayed
+312,635,124,731,19.99,73119.99,8/30/2026,10th Floor,online,shipped
+313,186,709,94,3.99,9403.99,2/21/2026,2nd Floor,curbside pickup,in transit
+314,799,680,412,24.99,41224.99,3/11/2026,Room 1237,curbside pickup,out for delivery
+315,59,840,910,39.99,91039.99,2/9/2026,PO Box 9617,curbside pickup,cancled
+316,445,163,704,4.49,70404.49,11/14/2025,PO Box 32320,in-store,shipped
+317,237,738,876,39.99,87639.99,2/2/2026,9th Floor,in-store,cancled
+318,395,717,402,22.99,40222.99,7/17/2026,Suite 96,curbside pickup,out for delivery
+319,750,312,443,24.99,44324.99,2/3/2026,16th Floor,in-store,cancled
+320,83,865,752,25.99,75225.99,1/15/2026,1st Floor,online,in transit
+321,519,827,750,3.79,75003.79,9/7/2026,9th Floor,curbside pickup,in transit
+322,488,166,516,24.99,51624.99,6/2/2026,Room 103,online,cancled
+323,859,670,563,24.99,56324.99,12/17/2025,8th Floor,online,in transit
+324,234,757,337,89.99,33789.99,8/10/2026,Suite 82,in-store,delayed
+325,968,644,283,2.49,28302.49,1/29/2026,PO Box 40268,curbside pickup,returned
+326,276,531,533,2.99,53302.99,7/18/2026,Suite 74,curbside pickup,delivered
+327,94,782,937,2.49,93702.49,4/16/2026,Room 290,online,returned
+328,959,495,909,24.99,90924.99,11/28/2025,11th Floor,in-store,in transit
+329,440,143,892,2.49,89202.49,1/12/2026,11th Floor,online,delayed
+330,84,679,652,3.99,65203.99,2/25/2026,Suite 67,in-store,cancled
+331,243,439,581,6.99,58106.99,2/15/2026,16th Floor,in-store,returned
+332,465,810,44,10.99,4410.99,3/28/2026,Suite 43,click and collect,cancled
+333,51,995,900,15.99,90015.99,11/24/2025,Room 493,delivery,returned
+334,735,679,90,14.99,9014.99,6/5/2026,PO Box 52911,online,delayed
+335,750,297,442,169.99,44369.99,2/26/2026,19th Floor,curbside pickup,returned
+336,663,281,391,69.99,39169.99,6/23/2026,Room 1914,curbside pickup,delivered
+337,260,137,651,4.49,65104.49,6/11/2026,Apt 366,in-store,shipped
+338,836,157,391,34.99,39134.99,4/4/2026,Room 565,online,in transit
+339,157,823,861,29.99,86129.99,6/2/2026,PO Box 75360,curbside pickup,delayed
+340,888,951,205,3.49,20503.49,11/20/2025,Apt 1937,click and collect,cancled
+341,457,911,68,5.99,6805.99,1/25/2026,Suite 1,click and collect,in transit
+342,701,842,761,39.99,76139.99,11/25/2025,PO Box 4471,in-store,shipped
+343,271,861,937,10.99,93710.99,2/7/2026,Room 1289,delivery,delayed
+344,243,814,288,22.99,28822.99,1/24/2026,Apt 1870,delivery,returned
+345,357,390,520,12.99,52012.99,10/22/2025,PO Box 48574,click and collect,out for delivery
+346,797,406,139,22.99,13922.99,12/21/2025,Room 667,online,returned
+347,329,708,187,3.99,18703.99,2/7/2026,PO Box 81894,in-store,cancled
+348,123,312,234,4.49,23404.49,5/24/2026,Suite 63,online,out for delivery
+349,889,460,788,22.99,78822.99,4/27/2026,Room 460,online,returned
+350,154,621,898,14.99,89814.99,5/23/2026,Apt 727,in-store,delivered
+351,333,731,884,39.99,88439.99,7/25/2026,Apt 1736,delivery,delivered
+352,800,159,716,29.99,71629.99,11/27/2025,Apt 1545,curbside pickup,in transit
+353,185,330,308,14.99,30814.99,6/4/2026,Suite 23,delivery,out for delivery
+354,10,971,544,2.99,54402.99,12/9/2025,Suite 87,online,in transit
+355,673,358,853,39.99,85339.99,5/10/2026,Suite 50,delivery,out for delivery
+356,813,586,104,4.99,10404.99,4/23/2026,12th Floor,click and collect,returned
+357,142,774,796,22.99,79622.99,7/25/2026,Apt 1760,curbside pickup,out for delivery
+358,360,261,120,4.99,12004.99,5/10/2026,Room 356,online,cancled
+359,943,488,261,5.99,26105.99,3/26/2026,10th Floor,in-store,shipped
+360,155,590,280,3.29,28003.29,12/8/2025,10th Floor,curbside pickup,delivered
+361,506,445,767,29.99,76729.99,7/21/2026,PO Box 53379,in-store,out for delivery
+362,985,116,571,4.29,57104.29,11/21/2025,Room 886,in-store,in transit
+363,206,925,880,3.49,88003.49,6/23/2026,Apt 1330,click and collect,delivered
+364,558,787,911,5.49,91105.49,11/24/2025,Room 777,click and collect,cancled
+365,248,262,540,2.99,54002.99,3/16/2026,PO Box 76569,curbside pickup,delivered
+366,34,46,654,3.99,65403.99,9/11/2026,Room 743,delivery,delivered
+367,391,414,26,3.29,2603.29,11/17/2025,PO Box 62726,curbside pickup,delivered
+368,808,614,883,89.99,88389.99,2/10/2026,Apt 420,delivery,delivered
+369,556,297,575,8.49,57508.49,12/7/2025,PO Box 65583,click and collect,cancled
+370,256,661,902,49.99,90249.99,1/25/2026,Apt 552,in-store,in transit
+371,773,791,791,49.99,79149.99,3/16/2026,Suite 54,delivery,shipped
+372,686,74,32,24.99,3224.99,9/7/2026,Room 1168,curbside pickup,shipped
+373,300,664,500,19.99,50019.99,2/20/2026,PO Box 83239,delivery,out for delivery
+374,336,652,732,19.99,73219.99,12/11/2025,PO Box 91212,online,shipped
+375,778,646,121,49.99,12149.99,5/30/2026,PO Box 24994,in-store,shipped
+376,264,836,860,2.49,86002.49,9/15/2026,Suite 71,curbside pickup,delayed
+377,357,997,102,2.99,10202.99,10/8/2026,Suite 92,delivery,cancled
+378,934,616,46,4.19,4604.19,11/11/2025,Suite 12,in-store,in transit
+379,332,15,686,34.99,68634.99,10/8/2026,11th Floor,curbside pickup,cancled
+380,748,753,178,3.29,17803.29,12/13/2025,Room 1839,in-store,in transit
+381,142,530,24,12.99,2412.99,1/28/2026,Apt 1337,curbside pickup,returned
+382,153,530,249,5.99,24905.99,1/8/2026,PO Box 20069,delivery,cancled
+383,335,48,247,4.99,24704.99,9/13/2026,Room 1767,click and collect,cancled
+384,124,252,58,1.99,5801.99,4/30/2026,Suite 34,click and collect,delivered
+385,262,363,175,129.99,17629.99,4/1/2026,18th Floor,delivery,cancled
+386,562,22,827,29.99,82729.99,9/17/2026,Apt 927,delivery,delayed
+387,40,299,882,24.99,88224.99,1/29/2026,Room 984,click and collect,delivered
+388,194,167,236,7.99,23607.99,11/2/2025,Suite 41,curbside pickup,returned
+389,311,742,830,2.49,83002.49,4/27/2026,Apt 1761,click and collect,delayed
+390,959,443,917,29.99,91729.99,11/13/2025,Suite 11,curbside pickup,in transit
+391,586,157,342,14.99,34214.99,12/23/2025,4th Floor,click and collect,cancled
+392,112,333,58,24.99,5824.99,2/2/2026,Room 1411,in-store,in transit
+393,955,313,71,89.99,7189.99,2/7/2026,PO Box 59431,curbside pickup,cancled
+394,532,738,878,1.89,87801.89,3/14/2026,Apt 1910,click and collect,out for delivery
+395,901,755,448,19.99,44819.99,2/4/2026,Suite 62,online,shipped
+396,706,542,648,9.99,64809.99,3/9/2026,Room 406,delivery,in transit
+397,137,408,429,4.49,42904.49,3/13/2026,Apt 726,online,delivered
+398,215,13,11,3.99,1103.99,5/15/2026,1st Floor,delivery,shipped
+399,164,926,64,5.49,6405.49,4/6/2026,Suite 93,click and collect,delayed
+400,197,991,483,8.99,48308.99,6/3/2026,Suite 35,in-store,shipped
+401,457,807,248,3.99,24803.99,7/14/2026,Suite 47,online,out for delivery
+402,400,521,848,4.89,84804.89,7/9/2026,PO Box 25904,curbside pickup,delayed
+403,432,260,298,44.99,29844.99,8/7/2026,Room 1644,click and collect,delayed
+404,205,99,267,3.99,26703.99,9/4/2026,Suite 64,curbside pickup,delayed
+405,778,714,714,39.99,71439.99,8/10/2026,16th Floor,curbside pickup,cancled
+406,763,919,389,199.99,39099.99,12/8/2025,Suite 7,curbside pickup,delivered
+407,164,677,977,4.99,97704.99,9/12/2026,Room 138,curbside pickup,delivered
+408,629,222,583,2.09,58302.09,1/2/2026,10th Floor,delivery,in transit
+409,732,665,829,39.99,82939.99,1/30/2026,PO Box 64667,delivery,returned
+410,44,332,228,49.99,22849.99,12/5/2025,Apt 806,in-store,delayed
+411,866,788,396,1.99,39601.99,2/1/2026,Room 1247,delivery,in transit
+412,646,513,893,4.49,89304.49,4/11/2026,19th Floor,in-store,out for delivery
+413,400,791,723,2.09,72302.09,8/9/2026,Suite 1,in-store,shipped
+414,752,615,747,5.49,74705.49,3/9/2026,7th Floor,in-store,in transit
+415,870,497,478,34.99,47834.99,5/28/2026,11th Floor,delivery,delayed
+416,138,175,75,29.99,7529.99,9/23/2026,Room 80,curbside pickup,delayed
+417,679,239,38,3.49,3803.49,11/17/2025,Apt 174,online,in transit
+418,887,471,357,29.99,35729.99,10/30/2025,Room 1836,in-store,returned
+419,697,245,861,2.79,86102.79,10/8/2026,Apt 977,curbside pickup,shipped
+420,619,873,67,29.99,6729.99,3/14/2026,Room 489,curbside pickup,shipped
+421,708,196,416,19.99,41619.99,1/13/2026,Room 874,in-store,delivered
+422,365,975,486,29.99,48629.99,7/7/2026,12th Floor,in-store,returned
+423,908,637,619,5.49,61905.49,7/8/2026,Suite 9,curbside pickup,out for delivery
+424,988,494,316,99.99,31699.99,6/4/2026,6th Floor,delivery,shipped
+425,906,827,911,19.99,91119.99,8/6/2026,Apt 473,click and collect,delayed
+426,124,615,27,19.99,2719.99,10/23/2025,Room 1266,click and collect,delayed
+427,54,11,633,3.99,63303.99,8/18/2026,PO Box 78053,curbside pickup,shipped
+428,833,280,867,5.49,86705.49,6/14/2026,Room 338,online,out for delivery
+429,462,566,869,2.49,86902.49,3/16/2026,Apt 855,curbside pickup,in transit
+430,333,33,335,19.99,33519.99,12/20/2025,Suite 14,curbside pickup,out for delivery
+431,826,515,922,3.99,92203.99,1/18/2026,Suite 28,delivery,delivered
+432,278,809,372,89.99,37289.99,2/16/2026,Room 1804,delivery,returned
+433,701,704,28,4.99,2804.99,11/7/2025,11th Floor,click and collect,cancled
+434,272,2,945,1.99,94501.99,9/26/2026,17th Floor,in-store,out for delivery
+435,515,539,110,3.49,11003.49,2/18/2026,Apt 740,in-store,cancled
+436,512,578,360,79.99,36079.99,11/30/2025,PO Box 88154,in-store,cancled
+437,68,651,843,39.99,84339.99,11/5/2025,Apt 1677,curbside pickup,in transit
+438,865,688,359,8.99,35908.99,10/22/2025,16th Floor,delivery,out for delivery
+439,184,435,83,3.29,8303.29,1/20/2026,13th Floor,in-store,delayed
+440,104,742,83,24.99,8324.99,5/5/2026,Room 493,online,returned
+441,5,451,532,5.99,53205.99,4/8/2026,Apt 1107,curbside pickup,delayed
+442,592,769,980,39.99,98039.99,2/24/2026,PO Box 5047,click and collect,delayed
+443,214,455,727,3.99,72703.99,8/11/2026,Apt 383,click and collect,returned
+444,974,222,286,49.99,28649.99,7/24/2026,PO Box 58437,in-store,in transit
+445,313,909,700,29.99,70029.99,4/22/2026,Suite 87,curbside pickup,delivered
+446,558,998,163,2.49,16302.49,1/1/2026,Room 1126,online,returned
+447,737,877,892,89.99,89289.99,7/27/2026,Apt 1382,in-store,in transit
+448,313,747,755,59.99,75559.99,11/10/2025,Apt 1512,curbside pickup,delayed
+449,825,100,492,2.39,49202.39,2/8/2026,Suite 58,click and collect,returned
+450,686,380,423,3.99,42303.99,9/15/2026,PO Box 84399,delivery,shipped
+451,249,308,19,29.99,1929.99,8/20/2026,PO Box 47443,delivery,cancled
+452,546,594,778,5.49,77805.49,12/22/2025,PO Box 75199,in-store,out for delivery
+453,428,654,249,1.99,24901.99,9/1/2026,Suite 52,click and collect,in transit
+454,555,752,637,2.89,63702.89,4/4/2026,PO Box 89647,click and collect,in transit
+455,17,382,311,22.99,31122.99,6/12/2026,Apt 45,click and collect,shipped
+456,265,17,143,2.99,14302.99,10/25/2025,Room 206,click and collect,out for delivery
+457,583,206,175,3.29,17503.29,5/15/2026,PO Box 47185,click and collect,shipped
+458,819,771,405,34.99,40534.99,10/20/2025,Apt 769,in-store,cancled
+459,595,830,721,3.49,72103.49,2/3/2026,2nd Floor,delivery,delayed
+460,112,189,513,2.99,51302.99,7/22/2026,Apt 509,online,returned
+461,140,221,270,5.29,27005.29,6/1/2026,Room 1398,delivery,delivered
+462,227,382,91,5.99,9105.99,2/19/2026,PO Box 37165,in-store,delayed
+463,158,491,189,24.99,18924.99,2/2/2026,2nd Floor,delivery,cancled
+464,804,698,553,9.99,55309.99,7/16/2026,Apt 218,curbside pickup,delivered
+465,954,299,447,15.99,44715.99,8/13/2026,PO Box 49607,online,delivered
+466,181,398,34,8.99,3408.99,9/23/2026,Apt 340,curbside pickup,in transit
+467,77,671,388,4.99,38804.99,7/24/2026,Apt 1844,in-store,returned
+468,446,314,617,24.99,61724.99,10/28/2025,Suite 58,online,in transit
+469,886,538,220,12.99,22012.99,3/8/2026,Apt 1159,online,shipped
+470,978,589,778,4.49,77804.49,11/21/2025,3rd Floor,in-store,out for delivery
+471,986,516,381,24.99,38124.99,7/3/2026,Room 1180,in-store,delivered
+472,672,39,851,59.99,85159.99,3/21/2026,Apt 447,delivery,cancled
+473,581,357,410,149.99,41149.99,7/30/2026,18th Floor,delivery,delayed
+474,304,189,42,6.49,4206.49,8/10/2026,Suite 7,delivery,delayed
+475,281,226,147,24.99,14724.99,7/22/2026,PO Box 71248,in-store,shipped
+476,94,465,915,14.99,91514.99,6/8/2026,Room 595,in-store,delayed
+477,911,976,722,2.99,72202.99,10/11/2025,Apt 1147,in-store,in transit
+478,320,245,313,2.79,31302.79,3/12/2026,Room 249,online,returned
+479,918,335,401,39.99,40139.99,9/2/2026,Suite 34,in-store,cancled
+480,336,536,639,39.99,63939.99,3/21/2026,Apt 1740,online,delivered
+481,598,543,265,2.99,26502.99,3/6/2026,Apt 1111,click and collect,in transit
+482,683,484,943,2.99,94302.99,4/15/2026,9th Floor,curbside pickup,delayed
+483,266,298,493,19.99,49319.99,6/26/2026,Room 1762,in-store,shipped
+484,209,552,380,49.99,38049.99,10/6/2026,Apt 1919,in-store,delivered
+485,1000,232,408,5.59,40805.59,8/14/2026,PO Box 90196,curbside pickup,shipped
+486,174,185,720,12.99,72012.99,7/31/2026,Suite 64,click and collect,cancled
+487,861,275,560,5.79,56005.79,1/14/2026,13th Floor,delivery,cancled
+488,203,881,31,89.99,3189.99,1/8/2026,7th Floor,delivery,returned
+489,886,266,618,2.49,61802.49,1/29/2026,Suite 96,delivery,returned
+490,700,836,688,3.49,68803.49,6/14/2026,Suite 90,delivery,shipped
+491,661,803,199,12.99,19912.99,7/22/2026,14th Floor,click and collect,out for delivery
+492,601,458,845,19.99,84519.99,10/8/2026,PO Box 39350,curbside pickup,returned
+493,656,334,559,18.99,55918.99,11/28/2025,Room 1144,curbside pickup,shipped
+494,102,762,313,4.29,31304.29,12/10/2025,Room 1325,online,cancled
+495,374,692,442,34.99,44234.99,5/9/2026,5th Floor,click and collect,returned
+496,648,74,238,29.99,23829.99,6/21/2026,Apt 1390,curbside pickup,in transit
+497,145,643,401,5.99,40105.99,4/1/2026,PO Box 16682,in-store,delivered
+498,371,122,647,3.49,64703.49,6/11/2026,3rd Floor,click and collect,out for delivery
+499,724,583,871,14.99,87114.99,5/17/2026,Room 285,delivery,shipped
+500,839,839,721,3.29,72103.29,4/7/2026,3rd Floor,click and collect,out for delivery
+501,624,727,880,3.99,88003.99,8/2/2026,PO Box 21785,click and collect,cancled
+502,32,177,559,129.99,56029.99,5/5/2026,19th Floor,online,shipped
+503,363,456,389,24.99,38924.99,11/25/2025,Apt 1235,delivery,delayed
+504,110,872,979,3.99,97903.99,4/14/2026,Suite 48,online,shipped
+505,352,129,881,12.99,88112.99,2/9/2026,Suite 36,curbside pickup,shipped
+506,795,960,53,99.99,5399.99,5/10/2026,10th Floor,online,out for delivery
+507,446,975,74,12.99,7412.99,9/6/2026,14th Floor,curbside pickup,delivered
+508,974,435,890,39.99,89039.99,12/14/2025,Suite 48,curbside pickup,delayed
+509,835,444,940,129.99,94129.99,7/16/2026,PO Box 27433,click and collect,out for delivery
+510,472,389,905,19.99,90519.99,9/15/2026,PO Box 76675,online,delayed
+511,326,928,584,10.99,58410.99,4/1/2026,10th Floor,click and collect,in transit
+512,626,498,694,10.99,69410.99,7/7/2026,Room 1276,online,shipped
+513,449,174,834,14.99,83414.99,2/6/2026,Apt 66,delivery,returned
+514,41,423,140,6.99,14006.99,11/13/2025,Room 339,click and collect,out for delivery
+515,599,391,205,2.49,20502.49,11/29/2025,8th Floor,in-store,delivered
+516,494,437,231,29.99,23129.99,3/30/2026,Room 260,in-store,in transit
+517,846,423,516,29.99,51629.99,6/3/2026,PO Box 67587,click and collect,returned
+518,956,479,469,3.29,46903.29,3/14/2026,PO Box 86133,click and collect,shipped
+519,483,348,142,59.99,14259.99,10/8/2026,1st Floor,delivery,returned
+520,168,416,567,5.99,56705.99,5/31/2026,Suite 56,click and collect,out for delivery
+521,162,348,296,19.99,29619.99,2/22/2026,PO Box 59446,online,delayed
+522,591,369,258,29.99,25829.99,4/5/2026,PO Box 14247,in-store,delayed
+523,227,867,330,1.99,33001.99,8/5/2026,Room 1153,click and collect,out for delivery
+524,326,312,951,19.99,95119.99,4/17/2026,Room 837,in-store,returned
+525,981,883,83,89.99,8389.99,5/19/2026,Apt 1474,curbside pickup,out for delivery
+526,907,286,859,8.49,85908.49,4/14/2026,Suite 37,click and collect,out for delivery
+527,984,616,617,39.99,61739.99,5/1/2026,Apt 1442,click and collect,returned
+528,168,598,642,3.79,64203.79,7/22/2026,Suite 44,in-store,delayed
+529,492,614,814,49.99,81449.99,10/22/2025,4th Floor,online,shipped
+530,475,93,936,5.49,93605.49,12/17/2025,11th Floor,online,delivered
+531,52,100,766,29.99,76629.99,11/8/2025,PO Box 3361,delivery,delayed
+532,618,489,429,3.69,42903.69,5/4/2026,Apt 273,click and collect,returned
+533,858,398,932,39.99,93239.99,1/16/2026,PO Box 55894,online,delivered
+534,219,793,812,12.99,81212.99,3/6/2026,Suite 32,click and collect,delayed
+535,249,924,842,14.99,84214.99,10/31/2025,PO Box 86470,click and collect,cancled
+536,956,532,533,49.99,53349.99,2/22/2026,Apt 639,online,cancled
+537,313,728,165,19.99,16519.99,4/17/2026,PO Box 34973,delivery,returned
+538,538,370,187,12.99,18712.99,4/2/2026,Room 567,delivery,shipped
+539,882,912,44,29.99,4429.99,1/20/2026,Apt 153,click and collect,returned
+540,605,49,135,19.99,13519.99,11/23/2025,PO Box 50829,online,returned
+541,209,769,885,2.49,88502.49,2/7/2026,PO Box 4765,in-store,shipped
+542,592,158,75,18.99,7518.99,1/25/2026,Suite 51,click and collect,delivered
+543,64,477,334,3.79,33403.79,12/18/2025,Room 1221,online,in transit
+544,504,664,95,39.99,9539.99,10/14/2025,Room 1579,curbside pickup,returned
+545,700,622,312,24.99,31224.99,12/17/2025,Room 1073,in-store,delayed
+546,775,927,947,4.29,94704.29,11/6/2025,Suite 69,in-store,out for delivery
+547,633,76,961,14.99,96114.99,10/20/2025,Suite 67,in-store,out for delivery
+548,103,262,898,29.99,89829.99,10/18/2025,Apt 1059,delivery,in transit
+549,117,273,282,3.49,28203.49,4/29/2026,Suite 88,delivery,in transit
+550,407,994,212,9.99,21209.99,11/19/2025,Suite 68,curbside pickup,returned
+551,21,111,875,19.99,87519.99,10/15/2025,Apt 1291,in-store,delivered
+552,952,629,701,2.49,70102.49,3/28/2026,Suite 93,online,out for delivery
+553,537,251,671,3.99,67103.99,4/19/2026,1st Floor,curbside pickup,shipped
+554,916,297,57,5.99,5705.99,10/7/2026,8th Floor,curbside pickup,cancled
+555,916,820,238,19.99,23819.99,6/26/2026,Room 755,online,delivered
+556,93,393,936,12.99,93612.99,12/2/2025,10th Floor,click and collect,in transit
+557,887,742,796,8.99,79608.99,6/12/2026,11th Floor,online,out for delivery
+558,369,735,828,9.99,82809.99,8/10/2026,PO Box 71445,delivery,delayed
+559,90,711,685,1.99,68501.99,11/5/2025,Room 626,curbside pickup,out for delivery
+560,388,77,679,2.99,67902.99,6/11/2026,Apt 1812,delivery,shipped
+561,112,937,452,24.99,45224.99,1/4/2026,Room 218,in-store,delayed
+562,60,207,567,44.99,56744.99,10/18/2025,15th Floor,delivery,shipped
+563,798,852,798,39.99,79839.99,3/16/2026,PO Box 21142,online,out for delivery
+564,471,447,310,49.99,31049.99,8/15/2026,13th Floor,curbside pickup,returned
+565,620,591,134,29.99,13429.99,12/24/2025,Apt 466,curbside pickup,delivered
+566,619,338,67,34.99,6734.99,5/5/2026,10th Floor,curbside pickup,returned
+567,288,823,566,39.99,56639.99,11/2/2025,Room 546,online,shipped
+568,724,192,430,29.99,43029.99,7/10/2026,Room 159,click and collect,delivered
+569,667,970,982,24.99,98224.99,11/7/2025,9th Floor,online,shipped
+570,984,189,236,0.89,23600.89,8/16/2026,Suite 18,online,in transit
+571,446,932,7,3.99,703.99,3/26/2026,Apt 1390,click and collect,cancled
+572,771,636,333,44.99,33344.99,7/15/2026,Suite 23,curbside pickup,delivered
+573,668,960,864,199.99,86599.99,12/20/2025,Suite 12,online,delayed
+574,778,64,861,3.99,86103.99,12/19/2025,20th Floor,in-store,out for delivery
+575,698,941,854,34.99,85434.99,1/4/2026,11th Floor,online,out for delivery
+576,956,220,793,2.99,79302.99,11/12/2025,Suite 65,online,shipped
+577,528,2,696,89.99,69689.99,9/21/2026,Room 893,delivery,cancled
+578,415,875,345,1.99,34501.99,10/8/2026,Suite 42,curbside pickup,in transit
+579,635,921,996,8.99,99608.99,6/2/2026,PO Box 91038,click and collect,shipped
+580,687,861,33,199.99,3499.99,2/23/2026,Apt 379,in-store,delivered
+581,525,451,691,14.99,69114.99,7/26/2026,Apt 1519,in-store,delivered
+582,468,752,792,3.19,79203.19,3/11/2026,18th Floor,in-store,in transit
+583,260,668,833,25.99,83325.99,8/20/2026,17th Floor,online,delivered
+584,378,277,658,2.49,65802.49,2/27/2026,5th Floor,in-store,out for delivery
+585,823,982,685,39.99,68539.99,5/14/2026,Apt 1621,in-store,shipped
+586,409,374,992,3.29,99203.29,11/14/2025,Apt 234,click and collect,out for delivery
+587,957,762,283,59.99,28359.99,6/9/2026,6th Floor,delivery,cancled
+588,831,753,818,3.99,81803.99,4/18/2026,Room 58,curbside pickup,delivered
+589,796,239,462,69.99,46269.99,11/7/2025,8th Floor,click and collect,returned
+590,809,111,137,4.99,13704.99,7/29/2026,Suite 72,delivery,delayed
+591,635,83,281,39.99,28139.99,6/1/2026,Apt 947,online,returned
+592,38,770,985,18.99,98518.99,5/19/2026,Room 706,click and collect,out for delivery
+593,309,240,593,79.99,59379.99,9/18/2026,PO Box 92870,online,delayed
+594,505,669,224,89.99,22489.99,1/20/2026,Room 1585,online,delivered
+595,865,541,832,2.49,83202.49,7/16/2026,Room 1237,in-store,delayed
+596,32,176,435,89.99,43589.99,3/4/2026,PO Box 17121,online,cancled
+597,618,526,209,4.99,20904.99,11/26/2025,Room 1946,click and collect,in transit
+598,628,285,322,19.99,32219.99,3/5/2026,Suite 73,in-store,out for delivery
+599,160,466,632,14.99,63214.99,10/26/2025,Apt 1492,delivery,delivered
+600,914,423,732,6.49,73206.49,11/10/2025,PO Box 80471,delivery,delayed
+601,68,476,908,4.29,90804.29,3/23/2026,Room 739,curbside pickup,in transit
+602,582,905,134,49.99,13449.99,8/6/2026,PO Box 89468,in-store,delayed
+603,251,903,355,19.99,35519.99,9/2/2026,PO Box 95784,in-store,in transit
+604,813,799,941,22.99,94122.99,12/30/2025,14th Floor,click and collect,returned
+605,893,570,370,29.99,37029.99,7/20/2026,Apt 423,click and collect,shipped
+606,429,839,80,4.99,8004.99,5/19/2026,PO Box 83514,click and collect,in transit
+607,708,312,715,22.99,71522.99,2/24/2026,Apt 1513,in-store,returned
+608,797,642,11,39.99,1139.99,5/23/2026,8th Floor,click and collect,out for delivery
+609,59,99,701,3.99,70103.99,12/13/2025,15th Floor,in-store,returned
+610,364,642,328,69.99,32869.99,11/16/2025,12th Floor,click and collect,cancled
+611,877,204,377,3.99,37703.99,7/27/2026,Apt 1391,online,out for delivery
+612,521,836,298,299.99,30099.99,9/26/2026,15th Floor,in-store,shipped
+613,355,248,258,34.99,25834.99,12/8/2025,7th Floor,online,cancled
+614,604,365,533,2.99,53302.99,6/22/2026,Suite 56,curbside pickup,shipped
+615,249,449,49,49.99,4949.99,7/25/2026,PO Box 60605,online,delivered
+616,502,653,92,199.99,9399.99,7/29/2026,Suite 67,click and collect,returned
+617,433,563,327,49.99,32749.99,9/25/2026,2nd Floor,delivery,delivered
+618,702,271,351,89.99,35189.99,1/5/2026,PO Box 42045,in-store,in transit
+619,535,398,881,199.99,88299.99,10/31/2025,PO Box 92194,delivery,returned
+620,722,795,928,19.99,92819.99,2/17/2026,Apt 46,in-store,in transit
+621,250,254,493,89.99,49389.99,5/29/2026,Apt 876,in-store,in transit
+622,692,65,647,7.99,64707.99,5/12/2026,Room 1832,delivery,cancled
+623,125,267,221,29.99,22129.99,7/16/2026,Apt 78,in-store,in transit
+624,571,485,12,34.99,1234.99,11/28/2025,Suite 28,online,shipped
+625,682,409,723,3.79,72303.79,1/12/2026,Apt 245,in-store,delayed
+626,133,538,536,8.49,53608.49,11/22/2025,Apt 1522,delivery,shipped
+627,24,482,147,1.99,14701.99,10/28/2025,PO Box 65459,delivery,returned
+628,844,320,421,24.99,42124.99,1/28/2026,PO Box 63340,curbside pickup,out for delivery
+629,483,317,458,3.69,45803.69,4/7/2026,Suite 30,curbside pickup,delivered
+630,498,263,4,39.99,439.99,4/1/2026,Room 1159,online,in transit
+631,368,661,869,159.99,87059.99,3/2/2026,Apt 601,click and collect,returned
+632,192,697,148,89.99,14889.99,1/11/2026,Suite 51,delivery,delivered
+633,303,295,985,24.99,98524.99,7/29/2026,Room 590,delivery,in transit
+634,63,313,653,3.79,65303.79,4/21/2026,Suite 20,click and collect,delivered
+635,292,117,730,349.99,73349.99,4/30/2026,12th Floor,in-store,cancled
+636,303,161,461,2.79,46102.79,7/12/2026,Suite 54,click and collect,shipped
+637,504,930,481,1.89,48101.89,9/1/2026,Suite 29,click and collect,out for delivery
+638,298,430,387,3.79,38703.79,2/14/2026,Apt 1973,click and collect,in transit
+639,896,913,114,4.99,11404.99,2/26/2026,3rd Floor,delivery,out for delivery
+640,597,48,501,4.49,50104.49,9/11/2026,PO Box 2370,delivery,in transit
+641,668,667,798,34.99,79834.99,7/9/2026,Suite 82,click and collect,out for delivery
+642,338,279,800,12.99,80012.99,8/29/2026,18th Floor,in-store,delivered
+643,508,296,433,3.49,43303.49,9/10/2026,7th Floor,online,delayed
+644,943,567,937,1.99,93701.99,1/18/2026,Apt 1872,in-store,cancled
+645,399,522,10,49.99,1049.99,10/14/2025,4th Floor,click and collect,delivered
+646,460,136,793,14.99,79314.99,6/27/2026,Room 769,online,returned
+647,112,963,937,19.99,93719.99,6/18/2026,Suite 97,delivery,delivered
+648,776,438,724,3.79,72403.79,7/12/2026,PO Box 63732,curbside pickup,delayed
+649,138,72,323,249.99,32549.99,3/17/2026,PO Box 66000,click and collect,returned
+650,231,388,595,19.99,59519.99,2/10/2026,8th Floor,in-store,delayed
+651,555,953,510,12.99,51012.99,12/2/2025,PO Box 71799,delivery,out for delivery
+652,733,909,26,3.29,2603.29,6/10/2026,Apt 546,curbside pickup,shipped
+653,51,549,363,24.99,36324.99,9/22/2026,9th Floor,click and collect,in transit
+654,412,293,179,4.49,17904.49,6/2/2026,Suite 16,delivery,shipped
+655,259,210,261,29.99,26129.99,12/30/2025,Apt 1645,delivery,shipped
+656,128,288,765,3.49,76503.49,1/26/2026,9th Floor,online,returned
+657,785,298,847,9.99,84709.99,3/7/2026,PO Box 3525,click and collect,delayed
+658,628,501,790,39.99,79039.99,6/25/2026,3rd Floor,click and collect,out for delivery
+659,923,18,516,49.99,51649.99,12/29/2025,PO Box 54705,curbside pickup,delivered
+660,299,331,368,2.79,36802.79,8/23/2026,Apt 776,delivery,out for delivery
+661,944,359,713,4.99,71304.99,1/6/2026,Room 1010,delivery,returned
+662,766,320,297,39.99,29739.99,12/14/2025,Apt 1966,online,out for delivery
+663,570,242,31,15.99,3115.99,4/5/2026,PO Box 58182,delivery,delayed
+664,351,933,177,19.99,17719.99,10/26/2025,Apt 886,delivery,in transit
+665,20,415,749,3.79,74903.79,11/20/2025,Apt 27,in-store,returned
+666,635,334,460,29.99,46029.99,4/15/2026,Apt 1094,in-store,delivered
+667,443,882,903,18.99,90318.99,7/29/2026,Apt 1285,in-store,delivered
+668,896,739,993,12.99,99312.99,8/28/2026,Suite 78,delivery,cancled
+669,553,566,304,5.99,30405.99,5/2/2026,Suite 55,in-store,delivered
+670,4,230,988,3.49,98803.49,4/6/2026,Apt 1485,delivery,cancled
+671,581,788,666,2.99,66602.99,2/21/2026,Suite 99,in-store,in transit
+672,280,886,94,2.99,9402.99,8/4/2026,PO Box 23133,click and collect,delayed
+673,355,238,11,2.49,1102.49,2/8/2026,Room 379,in-store,returned
+674,635,534,819,3.79,81903.79,3/20/2026,Room 1246,in-store,delayed
+675,730,186,801,49.99,80149.99,12/9/2025,7th Floor,delivery,out for delivery
+676,337,434,137,9.99,13709.99,9/26/2026,PO Box 13649,delivery,delivered
+677,165,822,680,249.99,68249.99,9/15/2026,12th Floor,click and collect,returned
+678,914,548,538,3.99,53803.99,10/26/2025,Apt 1951,in-store,delayed
+679,965,645,719,15.99,71915.99,8/13/2026,PO Box 17106,in-store,shipped
+680,614,507,398,24.99,39824.99,4/1/2026,PO Box 26788,online,cancled
+681,18,872,188,29.99,18829.99,9/1/2026,Suite 8,curbside pickup,shipped
+682,672,705,790,3.49,79003.49,10/21/2025,Apt 808,curbside pickup,delivered
+683,352,251,500,34.99,50034.99,6/24/2026,Room 756,curbside pickup,cancled
+684,874,422,257,14.99,25714.99,5/5/2026,Room 720,in-store,returned
+685,172,660,343,5.99,34305.99,9/26/2026,Room 155,curbside pickup,cancled
+686,200,694,727,2.99,72702.99,1/26/2026,Suite 53,online,delivered
+687,92,755,328,3.69,32803.69,1/9/2026,Room 1234,in-store,cancled
+688,407,555,721,39.99,72139.99,6/1/2026,Room 777,online,delayed
+689,929,488,792,19.99,79219.99,2/25/2026,Suite 63,online,out for delivery
+690,315,757,352,4.49,35204.49,8/21/2026,Suite 18,delivery,in transit
+691,948,716,523,3.59,52303.59,9/29/2026,PO Box 11099,curbside pickup,delivered
+692,557,386,215,22.99,21522.99,8/3/2026,Room 1924,delivery,delivered
+693,392,679,524,3.49,52403.49,1/21/2026,Room 350,curbside pickup,returned
+694,621,584,724,5.49,72405.49,10/15/2025,Room 222,delivery,cancled
+695,770,400,196,9.99,19609.99,6/24/2026,Apt 851,online,returned
+696,859,909,896,8.99,89608.99,3/12/2026,PO Box 44481,curbside pickup,shipped
+697,771,79,647,299.99,64999.99,6/3/2026,Room 1954,online,shipped
+698,325,229,738,4.59,73804.59,11/14/2025,Room 898,online,delayed
+699,413,878,202,29.99,20229.99,10/20/2025,Room 1846,online,delayed
+700,202,212,784,2.49,78402.49,8/24/2026,PO Box 18505,click and collect,in transit
+701,982,711,119,24.99,11924.99,1/14/2026,Suite 57,delivery,returned
+702,849,470,846,24.99,84624.99,7/9/2026,Room 203,in-store,in transit
+703,230,310,707,34.99,70734.99,4/14/2026,Room 1622,delivery,out for delivery
+704,956,613,612,3.99,61203.99,2/14/2026,Suite 5,curbside pickup,shipped
+705,359,916,472,6.49,47206.49,9/22/2026,4th Floor,delivery,shipped
+706,682,858,815,79.99,81579.99,12/26/2025,PO Box 60218,online,shipped
+707,521,506,10,59.99,1059.99,7/17/2026,16th Floor,curbside pickup,delivered
+708,221,66,557,11.99,55711.99,8/30/2026,Apt 785,in-store,in transit
+709,130,380,43,34.99,4334.99,12/13/2025,Room 347,curbside pickup,shipped
+710,390,46,598,14.99,59814.99,8/22/2026,Apt 1890,delivery,shipped
+711,714,454,739,5.99,73905.99,4/4/2026,3rd Floor,delivery,delivered
+712,546,334,694,6.49,69406.49,5/28/2026,Apt 760,curbside pickup,cancled
+713,26,296,285,59.99,28559.99,3/19/2026,Suite 79,in-store,delivered
+714,540,934,624,7.99,62407.99,6/11/2026,Apt 1549,online,returned
+715,232,750,704,49.99,70449.99,4/25/2026,Apt 1167,click and collect,delayed
+716,641,406,343,99.99,34399.99,5/14/2026,Apt 426,delivery,shipped
+717,764,46,205,5.99,20505.99,3/28/2026,Room 647,click and collect,cancled
+718,939,226,420,18.99,42018.99,8/3/2026,Suite 36,in-store,delayed
+719,918,241,86,19.99,8619.99,7/11/2026,Suite 4,click and collect,in transit
+720,83,556,934,44.99,93444.99,11/3/2025,PO Box 42992,click and collect,cancled
+721,289,746,247,59.99,24759.99,7/18/2026,13th Floor,in-store,shipped
+722,33,782,575,2.49,57502.49,11/29/2025,Apt 196,in-store,shipped
+723,1,892,248,3.99,24803.99,1/9/2026,14th Floor,online,delayed
+724,806,331,119,29.99,11929.99,12/25/2025,15th Floor,in-store,shipped
+725,246,822,944,299.99,94699.99,4/12/2026,PO Box 47369,in-store,in transit
+726,353,285,370,4.19,37004.19,10/2/2026,PO Box 41364,delivery,delayed
+727,472,12,599,1.49,59901.49,10/5/2026,5th Floor,in-store,delayed
+728,463,800,278,2.99,27802.99,11/23/2025,Room 360,online,out for delivery
+729,689,202,591,15.99,59115.99,1/17/2026,PO Box 16080,click and collect,shipped
+730,391,477,403,15.99,40315.99,3/16/2026,Suite 91,online,cancled
+731,664,82,692,3.29,69203.29,1/18/2026,PO Box 63572,click and collect,cancled
+732,221,782,818,6.99,81806.99,12/16/2025,Apt 1513,in-store,shipped
+733,277,889,30,15.99,3015.99,8/13/2026,8th Floor,click and collect,delivered
+734,487,814,418,4.99,41804.99,12/29/2025,9th Floor,online,out for delivery
+735,934,279,196,12.99,19612.99,11/5/2025,Apt 1769,click and collect,delayed
+736,898,744,599,49.99,59949.99,1/26/2026,Apt 973,click and collect,in transit
+737,640,520,618,3.99,61803.99,3/27/2026,Apt 749,curbside pickup,shipped
+738,302,446,693,2.99,69302.99,2/17/2026,Apt 300,curbside pickup,in transit
+739,940,961,823,4.29,82304.29,8/10/2026,Room 1796,delivery,shipped
+740,366,283,51,149.99,5249.99,1/13/2026,Apt 404,online,out for delivery
+741,132,239,366,6.49,36606.49,5/20/2026,PO Box 68023,delivery,returned
+742,813,135,476,3.29,47603.29,1/5/2026,Suite 19,online,returned
+743,762,883,423,24.99,42324.99,6/20/2026,Room 1931,delivery,shipped
+744,881,610,787,29.99,78729.99,9/5/2026,10th Floor,click and collect,delayed
+745,688,883,505,4.99,50504.99,8/25/2026,Apt 1897,online,in transit
+746,889,872,791,19.99,79119.99,3/7/2026,Room 376,curbside pickup,out for delivery
+747,491,4,268,25.99,26825.99,12/21/2025,PO Box 36211,curbside pickup,in transit
+748,967,930,976,5.99,97605.99,3/26/2026,12th Floor,online,out for delivery
+749,217,719,676,2.79,67602.79,7/29/2026,Apt 1831,online,returned
+750,71,966,149,2.29,14902.29,3/26/2026,PO Box 71751,click and collect,shipped
+751,529,902,149,18.99,14918.99,10/6/2026,Suite 13,curbside pickup,out for delivery
+752,78,140,506,49.99,50649.99,6/26/2026,Room 91,in-store,cancled
+753,977,639,553,34.99,55334.99,7/4/2026,Room 512,in-store,returned
+754,343,945,97,1.5,9701.5,12/7/2025,Apt 1998,in-store,in transit
+755,306,349,206,8.99,20608.99,9/3/2026,Apt 1315,delivery,returned
+756,818,152,868,14.99,86814.99,7/20/2026,Room 1739,in-store,cancled
+757,82,151,204,5.49,20405.49,6/10/2026,Room 195,curbside pickup,delayed
+758,38,650,319,29.99,31929.99,8/21/2026,Apt 1740,online,returned
+759,108,554,444,19.99,44419.99,2/19/2026,PO Box 22828,online,returned
+760,376,543,129,2.99,12902.99,10/31/2025,PO Box 77560,in-store,out for delivery
+761,298,98,423,2.99,42302.99,4/27/2026,Apt 1046,curbside pickup,out for delivery
+762,973,3,530,39.99,53039.99,8/29/2026,Room 1564,curbside pickup,in transit
+763,342,395,191,2.49,19102.49,10/5/2026,Suite 4,delivery,out for delivery
+764,844,5,421,1.29,42101.29,12/22/2025,Room 1624,online,returned
+765,924,105,457,10.99,45710.99,3/15/2026,Apt 611,in-store,out for delivery
+766,242,405,438,2.49,43802.49,3/21/2026,Suite 66,click and collect,out for delivery
+767,952,911,39,29.99,3929.99,11/12/2025,Room 265,in-store,shipped
+768,533,519,586,34.99,58634.99,5/29/2026,Room 797,delivery,delayed
+769,852,710,259,44.99,25944.99,8/29/2026,Apt 1803,online,in transit
+770,408,964,763,9.99,76309.99,12/4/2025,PO Box 34781,click and collect,returned
+771,422,958,961,19.99,96119.99,2/3/2026,6th Floor,in-store,delayed
+772,705,500,186,2.59,18602.59,9/5/2026,PO Box 52357,in-store,delivered
+773,123,144,533,8.99,53308.99,2/14/2026,Room 811,curbside pickup,delayed
+774,489,945,18,4.99,1804.99,7/4/2026,PO Box 49358,delivery,shipped
+775,745,106,756,2.79,75602.79,2/5/2026,Suite 67,in-store,in transit
+776,195,877,572,5.99,57205.99,5/7/2026,PO Box 50066,click and collect,delivered
+777,215,343,150,19.99,15019.99,8/7/2026,Suite 65,click and collect,delayed
+778,619,756,638,3.99,63803.99,5/19/2026,Suite 61,delivery,delayed
+779,906,567,838,3.99,83803.99,10/1/2026,Apt 182,click and collect,out for delivery
+780,129,297,579,39.99,57939.99,5/29/2026,5th Floor,delivery,in transit
+781,807,53,265,39.99,26539.99,5/12/2026,Apt 1596,delivery,shipped
+782,642,803,437,34.99,43734.99,10/5/2026,Room 1813,click and collect,cancled
+783,131,473,536,79.99,53679.99,2/2/2026,Suite 88,in-store,delivered
+784,29,117,369,2.99,36902.99,6/28/2026,PO Box 67513,click and collect,in transit
+785,6,19,259,7.19,25907.19,7/2/2026,18th Floor,click and collect,shipped
+786,478,33,278,5.49,27805.49,7/27/2026,Room 702,curbside pickup,returned
+787,670,565,619,1.89,61901.89,12/24/2025,Suite 9,online,out for delivery
+788,498,142,708,12.99,70812.99,9/16/2026,Suite 32,delivery,returned
+789,598,613,151,18.99,15118.99,4/19/2026,Apt 399,in-store,returned
+790,911,247,710,22.99,71022.99,11/3/2025,Room 1352,delivery,cancled
+791,565,365,632,3.79,63203.79,4/17/2026,PO Box 43288,delivery,returned
+792,851,260,853,3.99,85303.99,12/8/2025,19th Floor,click and collect,in transit
+793,349,463,718,129.99,71929.99,11/23/2025,Suite 95,delivery,delayed
+794,282,318,8,12.99,812.99,8/26/2026,12th Floor,online,cancled
+795,486,883,902,5.49,90205.49,12/27/2025,PO Box 69780,in-store,delayed
+796,825,723,343,5.99,34305.99,6/2/2026,3rd Floor,in-store,cancled
+797,965,152,132,3.29,13203.29,10/22/2025,18th Floor,in-store,in transit
+798,921,798,567,4.99,56704.99,1/18/2026,Room 1467,in-store,in transit
+799,287,645,823,3.29,82303.29,10/15/2025,11th Floor,delivery,delayed
+800,416,598,967,5.49,96705.49,4/27/2026,Apt 1897,delivery,delayed
+801,107,525,218,29.99,21829.99,2/3/2026,PO Box 50265,delivery,out for delivery
+802,169,204,546,3.49,54603.49,6/19/2026,PO Box 25244,curbside pickup,delayed
+803,804,607,456,3.99,45603.99,5/4/2026,PO Box 2775,online,shipped
+804,893,108,43,15.99,4315.99,1/14/2026,Room 1718,delivery,in transit
+805,79,316,954,19.99,95419.99,8/21/2026,Apt 796,delivery,returned
+806,147,140,53,1.79,5301.79,3/6/2026,PO Box 89555,online,in transit
+807,277,968,999,29.99,99929.99,9/30/2026,Apt 77,delivery,returned
+808,276,323,414,5.79,41405.79,10/21/2025,Apt 1123,curbside pickup,delayed
+809,976,362,999,3.99,99903.99,1/31/2026,Room 309,online,in transit
+810,776,3,235,3.99,23503.99,6/22/2026,PO Box 21722,in-store,out for delivery
+811,676,973,896,34.99,89634.99,4/26/2026,8th Floor,click and collect,cancled
+812,925,271,837,4.99,83704.99,6/26/2026,Suite 45,delivery,out for delivery
+813,710,461,776,19.99,77619.99,6/10/2026,Apt 497,in-store,delivered
+814,473,81,71,19.99,7119.99,9/30/2026,Suite 13,delivery,out for delivery
+815,710,943,520,5.99,52005.99,11/9/2025,Room 1653,online,delayed
+816,417,155,437,7.49,43707.49,2/17/2026,Suite 35,curbside pickup,delivered
+817,536,440,658,4.29,65804.29,2/9/2026,14th Floor,curbside pickup,cancled
+818,968,953,595,1.99,59501.99,6/4/2026,Apt 232,in-store,returned
+819,869,629,335,39.99,33539.99,4/9/2026,Suite 99,delivery,returned
+820,628,154,396,5.49,39605.49,4/29/2026,Suite 92,delivery,cancled
+821,391,410,251,109.99,25209.99,5/24/2026,Suite 43,click and collect,delayed
+822,945,72,100,5.49,10005.49,3/30/2026,Suite 31,click and collect,returned
+823,628,65,425,5.99,42505.99,3/27/2026,PO Box 68978,online,delivered
+824,923,186,555,179.99,55679.99,4/15/2026,PO Box 98104,online,delivered
+825,434,586,752,89.99,75289.99,7/10/2026,PO Box 3961,curbside pickup,in transit
+826,313,276,312,4.29,31204.29,4/7/2026,Suite 11,curbside pickup,out for delivery
+827,580,59,773,69.99,77369.99,11/25/2025,PO Box 5755,in-store,returned
+828,31,391,50,2.49,5002.49,6/22/2026,Apt 1622,delivery,returned
+829,72,52,298,39.99,29839.99,7/25/2026,Suite 7,delivery,out for delivery
+830,837,889,954,89.99,95489.99,2/9/2026,Room 1333,in-store,returned
+831,405,910,293,3.49,29303.49,4/4/2026,PO Box 46914,click and collect,cancled
+832,148,345,885,1.5,88501.5,3/8/2026,Room 917,curbside pickup,in transit
+833,786,612,841,24.99,84124.99,10/6/2026,Apt 431,in-store,returned
+834,739,932,38,3.99,3803.99,11/6/2025,Suite 85,click and collect,out for delivery
+835,619,566,648,15.99,64815.99,2/11/2026,Apt 1742,curbside pickup,delivered
+836,549,659,205,59.99,20559.99,2/17/2026,Room 126,online,in transit
+837,140,779,199,4.99,19904.99,8/26/2026,20th Floor,in-store,returned
+838,896,489,398,1.99,39801.99,8/8/2026,PO Box 25416,online,delayed
+839,684,920,784,3.99,78403.99,4/20/2026,Apt 703,curbside pickup,in transit
+840,484,920,944,59.99,94459.99,6/20/2026,18th Floor,delivery,delivered
+841,194,812,587,54.99,58754.99,5/24/2026,PO Box 87151,delivery,out for delivery
+842,980,180,657,19.99,65719.99,11/14/2025,Room 1348,delivery,delayed
+843,263,185,546,4.49,54604.49,10/19/2025,Apt 1675,delivery,out for delivery
+844,806,465,898,2.49,89802.49,10/14/2025,Suite 53,online,shipped
+845,200,919,738,6.49,73806.49,6/19/2026,Apt 1049,online,in transit
+846,349,199,303,5.49,30305.49,7/10/2026,PO Box 67198,click and collect,returned
+847,79,105,699,22.99,69922.99,11/7/2025,Apt 866,curbside pickup,delivered
+848,761,591,96,25.99,9625.99,3/12/2026,Suite 40,curbside pickup,returned
+849,681,471,70,4.49,7004.49,8/2/2026,Apt 1420,click and collect,shipped
+850,852,656,262,49.99,26249.99,4/25/2026,Room 1250,curbside pickup,returned
+851,707,694,524,22.99,52422.99,3/3/2026,Apt 609,curbside pickup,returned
+852,296,292,203,6.49,20306.49,3/3/2026,PO Box 74258,online,in transit
+853,271,744,570,3.79,57003.79,3/29/2026,Apt 599,online,delayed
+854,72,942,583,79.99,58379.99,7/25/2026,8th Floor,delivery,cancled
+855,322,985,198,4.49,19804.49,12/17/2025,Room 1227,in-store,delayed
+856,916,715,394,179.99,39579.99,12/31/2025,12th Floor,click and collect,shipped
+857,863,316,217,89.99,21789.99,2/10/2026,Apt 1170,click and collect,in transit
+858,176,11,735,19.99,73519.99,2/3/2026,Suite 41,in-store,cancled
+859,897,669,971,8.99,97108.99,10/25/2025,19th Floor,curbside pickup,in transit
+860,23,745,558,2.99,55802.99,10/29/2025,PO Box 39245,in-store,returned
+861,162,853,339,59.99,33959.99,8/30/2026,Suite 14,online,cancled
+862,218,154,834,14.99,83414.99,8/18/2026,Suite 36,online,shipped
+863,702,36,97,1.49,9701.49,7/26/2026,Room 151,in-store,out for delivery
+864,928,855,385,4.29,38504.29,9/7/2026,PO Box 51503,curbside pickup,delayed
+865,338,577,476,5.99,47605.99,11/2/2025,14th Floor,click and collect,in transit
+866,346,173,656,22.99,65622.99,11/1/2025,Apt 236,in-store,delayed
+867,189,390,781,1.49,78101.49,11/1/2025,2nd Floor,online,shipped
+868,806,854,629,19.99,62919.99,2/13/2026,Apt 1972,delivery,cancled
+869,718,372,169,7.49,16907.49,2/15/2026,Room 140,in-store,delivered
+870,542,676,719,3.49,71903.49,4/18/2026,PO Box 75267,click and collect,returned
+871,229,987,922,2.49,92202.49,9/1/2026,Suite 66,curbside pickup,out for delivery
+872,785,58,384,59.99,38459.99,1/24/2026,PO Box 22075,delivery,cancled
+873,712,282,616,4.99,61604.99,9/22/2026,Suite 94,curbside pickup,returned
+874,109,140,444,4.99,44404.99,4/19/2026,12th Floor,online,returned
+875,848,941,865,29.99,86529.99,4/7/2026,Room 1229,curbside pickup,delayed
+876,141,924,771,49.99,77149.99,8/22/2026,19th Floor,in-store,out for delivery
+877,63,204,803,3.29,80303.29,11/8/2025,Room 450,in-store,out for delivery
+878,941,790,947,44.99,94744.99,12/22/2025,Suite 69,click and collect,cancled
+879,464,493,28,2.99,2802.99,11/29/2025,Room 766,in-store,shipped
+880,153,773,263,54.99,26354.99,4/18/2026,Room 1010,online,out for delivery
+881,388,537,710,19.99,71019.99,4/25/2026,PO Box 29176,in-store,delayed
+882,464,611,754,1.99,75401.99,2/20/2026,Suite 95,curbside pickup,shipped
+883,544,663,466,39.99,46639.99,1/19/2026,Room 337,click and collect,cancled
+884,700,110,290,4.29,29004.29,2/25/2026,9th Floor,curbside pickup,out for delivery
+885,613,918,352,2.39,35202.39,1/11/2026,Room 777,online,out for delivery
+886,294,573,438,39.99,43839.99,6/13/2026,Apt 119,delivery,delayed
+887,435,981,99,39.99,9939.99,10/22/2025,1st Floor,online,cancled
+888,1,787,103,24.99,10324.99,4/13/2026,Suite 47,online,out for delivery
+889,674,638,41,3.59,4103.59,1/4/2026,PO Box 76769,click and collect,delayed
+890,31,549,405,3.49,40503.49,10/14/2025,2nd Floor,click and collect,delayed
+891,887,1,382,14.99,38214.99,10/5/2026,Room 238,click and collect,out for delivery
+892,18,275,275,39.99,27539.99,11/21/2025,18th Floor,online,out for delivery
+893,474,998,704,29.99,70429.99,2/22/2026,5th Floor,delivery,in transit
+894,400,913,824,59.99,82459.99,1/10/2026,Room 36,curbside pickup,cancled
+895,232,729,453,39.99,45339.99,2/20/2026,PO Box 22101,in-store,shipped
+896,358,227,912,18.99,91218.99,2/7/2026,PO Box 95414,online,delivered
+897,467,206,342,29.99,34229.99,8/14/2026,Room 523,in-store,in transit
+898,644,707,898,29.99,89829.99,9/30/2026,4th Floor,in-store,shipped
+899,349,532,529,99.99,52999.99,4/29/2026,Apt 1317,click and collect,cancled
+900,489,835,951,3.29,95103.29,3/27/2026,18th Floor,curbside pickup,shipped
+901,160,255,662,22.99,66222.99,10/22/2025,PO Box 58760,curbside pickup,delayed
+902,949,912,317,99.99,31799.99,4/26/2026,Room 1116,delivery,shipped
+903,919,399,944,39.99,94439.99,2/20/2026,Suite 83,online,cancled
+904,670,130,846,199.99,84799.99,9/13/2026,PO Box 12407,delivery,delivered
+905,949,748,385,89.99,38589.99,11/24/2025,Suite 57,delivery,shipped
+906,33,194,451,2.29,45102.29,3/13/2026,PO Box 45411,delivery,cancled
+907,30,397,827,59.99,82759.99,10/8/2026,Room 674,click and collect,delivered
+908,727,654,44,1.99,4401.99,4/24/2026,Apt 1691,click and collect,out for delivery
+909,598,600,819,19.99,81919.99,3/26/2026,Apt 1115,curbside pickup,delivered
+910,726,357,920,4.99,92004.99,7/17/2026,Apt 795,delivery,returned
+911,442,185,944,49.99,94449.99,6/2/2026,PO Box 61944,click and collect,delayed
+912,724,657,455,8.99,45508.99,2/21/2026,PO Box 67687,online,shipped
+913,423,176,234,199.99,23599.99,4/14/2026,PO Box 49462,curbside pickup,out for delivery
+914,892,520,655,2.99,65502.99,5/29/2026,20th Floor,in-store,out for delivery
+915,467,44,354,29.99,35429.99,1/8/2026,Apt 331,click and collect,cancled
+916,713,752,668,29.99,66829.99,4/12/2026,6th Floor,online,returned
+917,674,487,334,129.99,33529.99,11/23/2025,Suite 76,in-store,in transit
+918,267,438,87,6.99,8706.99,10/24/2025,Suite 32,delivery,returned
+919,299,358,16,2.79,1602.79,10/6/2026,Suite 89,in-store,out for delivery
+920,704,774,910,34.99,91034.99,8/11/2026,PO Box 76076,curbside pickup,shipped
+921,536,641,495,39.99,49539.99,5/9/2026,PO Box 93903,in-store,cancled
+922,181,840,990,3.29,99003.29,6/19/2026,9th Floor,in-store,out for delivery
+923,813,228,846,1.29,84601.29,2/27/2026,PO Box 11224,click and collect,out for delivery
+924,619,990,787,5.49,78705.49,9/4/2026,Room 1393,click and collect,shipped
+925,31,98,947,49.99,94749.99,11/7/2025,Suite 10,in-store,delayed
+926,833,36,526,59.99,52659.99,3/13/2026,Suite 22,curbside pickup,delayed
+927,329,80,137,19.99,13719.99,10/9/2025,PO Box 27240,curbside pickup,cancled
+928,840,712,289,39.99,28939.99,1/27/2026,Room 980,click and collect,out for delivery
+929,398,111,980,12.99,98012.99,7/14/2026,1st Floor,in-store,cancled
+930,363,527,207,4.99,20704.99,7/27/2026,Room 1561,in-store,cancled
+931,547,340,801,349.99,80449.99,10/31/2025,Room 955,delivery,out for delivery
+932,935,511,464,199.99,46599.99,5/11/2026,PO Box 93083,curbside pickup,shipped
+933,88,747,995,24.99,99524.99,4/27/2026,Apt 1559,online,in transit
+934,421,148,340,24.99,34024.99,1/10/2026,Room 730,in-store,cancled
+935,195,430,903,29.99,90329.99,6/22/2026,Apt 1227,curbside pickup,returned
+936,835,300,93,1.49,9301.49,4/3/2026,Room 30,online,out for delivery
+937,423,367,659,4.99,65904.99,6/11/2026,Room 1200,delivery,returned
+938,697,140,935,49.99,93549.99,3/8/2026,3rd Floor,online,out for delivery
+939,858,589,462,69.99,46269.99,9/3/2026,Suite 2,in-store,returned
+940,552,703,14,199.99,1599.99,7/16/2026,Room 1385,curbside pickup,shipped
+941,552,8,26,5.99,2605.99,5/15/2026,8th Floor,online,delayed
+942,703,149,739,2.99,73902.99,3/29/2026,PO Box 85805,delivery,in transit
+943,44,426,806,3.29,80603.29,5/15/2026,PO Box 77250,curbside pickup,returned
+944,835,354,744,89.99,74489.99,4/5/2026,Room 22,online,delivered
+945,552,765,484,2.49,48402.49,4/13/2026,Apt 408,online,cancled
+946,226,146,42,3.99,4203.99,11/21/2025,Apt 861,delivery,shipped
+947,962,471,100,19.99,10019.99,5/16/2026,Suite 39,delivery,cancled
+948,240,311,712,34.99,71234.99,1/5/2026,Apt 527,delivery,out for delivery
+949,1,797,700,34.99,70034.99,4/29/2026,6th Floor,online,delayed
+950,345,193,689,2.49,68902.49,2/22/2026,Suite 4,curbside pickup,returned
+951,477,850,564,19.99,56419.99,12/21/2025,Room 1512,click and collect,in transit
+952,7,85,327,3.99,32703.99,2/13/2026,4th Floor,online,shipped
+953,822,983,511,249.99,51349.99,9/7/2026,Room 903,click and collect,delivered
+954,808,437,701,39.99,70139.99,1/7/2026,Room 205,in-store,out for delivery
+955,235,13,705,4.99,70504.99,11/25/2025,Room 688,curbside pickup,shipped
+956,18,677,679,4.99,67904.99,8/10/2026,PO Box 89427,delivery,delivered
+957,22,23,23,14.99,2314.99,12/1/2025,Suite 22,delivery,cancled
+958,737,73,165,6.99,16506.99,9/28/2026,Apt 734,in-store,cancled
+959,579,592,227,12.99,22712.99,6/20/2026,Apt 1299,curbside pickup,cancled
+960,773,202,545,22.99,54522.99,3/31/2026,9th Floor,click and collect,delayed
+961,840,500,385,3.49,38503.49,4/12/2026,PO Box 16607,in-store,returned
+962,203,399,737,4.49,73704.49,2/4/2026,Room 885,online,cancled
+963,360,693,951,4.29,95104.29,9/15/2026,Suite 73,delivery,out for delivery
+964,67,217,902,4.99,90204.99,1/14/2026,Room 810,online,cancled
+965,284,389,48,34.99,4834.99,11/2/2025,Apt 1835,in-store,delayed
+966,314,48,951,4.99,95104.99,1/28/2026,Apt 287,in-store,out for delivery
+967,528,92,877,5.49,87705.49,2/8/2026,PO Box 3687,curbside pickup,shipped
+968,721,400,979,18.99,97918.99,1/10/2026,Suite 7,online,in transit
+969,408,398,704,29.99,70429.99,2/11/2026,3rd Floor,delivery,out for delivery
+970,79,943,658,1.49,65801.49,5/12/2026,PO Box 68504,click and collect,returned
+971,740,265,242,5.49,24205.49,9/22/2026,Room 1584,delivery,cancled
+972,280,451,352,3.79,35203.79,2/20/2026,PO Box 64662,click and collect,delivered
+973,13,569,765,3.49,76503.49,5/5/2026,PO Box 95347,click and collect,shipped
+974,476,759,299,39.99,29939.99,8/7/2026,Apt 1578,curbside pickup,returned
+975,232,530,50,89.99,5089.99,9/23/2026,Room 1864,curbside pickup,delayed
+976,670,517,324,5.79,32405.79,6/24/2026,Room 647,online,returned
+977,895,610,718,29.99,71829.99,9/23/2026,7th Floor,in-store,returned
+978,432,190,914,19.99,91419.99,2/22/2026,5th Floor,online,returned
+979,173,976,338,129.99,33929.99,8/8/2026,PO Box 83776,curbside pickup,shipped
+980,735,53,878,8.99,87808.99,5/26/2026,Room 138,online,cancled
+981,458,480,332,44.99,33244.99,1/10/2026,Suite 51,click and collect,out for delivery
+982,479,965,902,29.99,90229.99,12/6/2025,PO Box 54228,in-store,returned
+983,675,979,203,2.99,20302.99,7/22/2026,Room 633,online,delayed
+984,262,357,9,3.49,903.49,3/5/2026,Suite 17,delivery,in transit
+985,565,192,752,29.99,75229.99,3/20/2026,1st Floor,in-store,returned
+986,10,637,916,29.99,91629.99,2/27/2026,PO Box 46744,curbside pickup,in transit
+987,361,322,854,29.99,85429.99,7/19/2026,PO Box 29942,curbside pickup,returned
+988,1,480,420,29.99,42029.99,4/5/2026,PO Box 61699,delivery,shipped
+989,340,337,206,4.49,20604.49,8/11/2026,PO Box 26520,curbside pickup,returned
+990,177,904,741,69.99,74169.99,6/28/2026,Suite 42,click and collect,out for delivery
+991,909,901,228,5.99,22805.99,12/25/2025,Apt 1589,click and collect,in transit
+992,675,614,685,18.99,68518.99,10/1/2026,Apt 1523,click and collect,cancled
+993,836,446,398,8.99,39808.99,12/22/2025,Apt 1968,online,returned
+994,934,354,675,4.29,67504.29,10/13/2025,Room 1319,online,returned
+995,635,424,233,6.99,23306.99,1/11/2026,Room 755,curbside pickup,in transit
+996,624,402,928,34.99,92834.99,11/28/2025,PO Box 78624,in-store,delayed
+997,56,824,489,3.99,48903.99,11/7/2025,17th Floor,delivery,shipped
+998,507,592,941,2.99,94102.99,6/21/2026,10th Floor,curbside pickup,shipped
+999,107,121,835,24.99,83524.99,7/15/2026,PO Box 20037,in-store,in transit
+1000,311,461,298,22.99,29822.99,6/30/2026,Apt 1415,curbside pickup,returned

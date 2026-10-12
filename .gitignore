@@ -1,0 +1,17 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+my_env/
+__pycache__/
+*.py[cod]
+
+# Local app and database state
+.gradio/
+*.db
+*.sqlite
+*.sqlite3
